@@ -3,12 +3,9 @@
     <summary>
       <h1>Apointo</h1>
     </summary>
-    <em>“Effortless Scheduling, Local Connection.”</em>
+    <em style="font-weight:normal">“Effortless Scheduling, Local Connection.”</em>
   </ul>
 </div>
-
-# Apointo
-*“Effortless Scheduling, Local Connection.”*
 
 ## Description:
 Apointo is your streamlined solution for managing appointments with local service providers. 
