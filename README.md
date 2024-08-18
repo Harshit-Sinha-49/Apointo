@@ -2,8 +2,8 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Apointo</h1>
-      <i>“Effortless Scheduling, Local Connection.”</i>
     </summary>
+    <i>“Effortless Scheduling, Local Connection.”</i>
   </ul>
 </div>
 
