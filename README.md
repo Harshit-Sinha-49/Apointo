@@ -1,5 +1,4 @@
-<h1>Apointo</h1>
-
+# Apointo
 *“Effortless Scheduling, Local Connection.”*
 
 ## Description:
