@@ -1,3 +1,12 @@
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Apointo</h1>
+      <i>“Effortless Scheduling, Local Connection.”</i>
+    </summary>
+  </ul>
+</div>
+
 # Apointo
 *“Effortless Scheduling, Local Connection.”*
 
