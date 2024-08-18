@@ -1,9 +1,9 @@
 <div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
+  <ul style="list-style: none;">
     <summary>
       <h1>Apointo</h1>
     </summary>
-    <i>“Effortless Scheduling, Local Connection.”</i>
+    <em>“Effortless Scheduling, Local Connection.”</em>
   </ul>
 </div>
 
